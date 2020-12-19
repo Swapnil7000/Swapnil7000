@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swapnil Bhojwani</h1>
 <h3 align="center">A passionate android developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnil7000" alt="swapnil7000" /> </p>
-
 - 🌱 I’m currently learning **ANDROID DEVELOPMENT,JAVA**
 
 - 💬 Ask me about **Java,C,C++**
